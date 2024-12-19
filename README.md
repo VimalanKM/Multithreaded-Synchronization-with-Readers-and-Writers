@@ -15,7 +15,9 @@ gcc must be installed in the system.
 pthread library must be available.
 
 The code can be compiled using gcc with the following command:
+
 $ gcc readers_writers.c -o readers_writers -lpthread
 
 The executable cab be run using
+
 $ ./readers_writers
